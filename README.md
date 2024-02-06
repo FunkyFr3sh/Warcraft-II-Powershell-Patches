@@ -1,3 +1,5 @@
+Note to Blizzard and gog.com staff: If you guys happen to see this, you're free to include these patches in your installers without any fees.
+
 Patch #1: Allow joining games without port forwarding
 -----------------
  - Download [bnet-join-game-fix.zip](https://downgit.github.io/#/home?url=https://github.com/FunkyFr3sh/Warcraft-II-Powershell-Patches/blob/main/bnet-join-game-fix.ps1)
