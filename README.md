@@ -11,4 +11,10 @@ Before / After
 
 ![image](https://github.com/FunkyFr3sh/Warcraft-II-Powershell-Patches/assets/8355237/3b0b7684-bcdb-48cf-b7f9-04055a953a92) ![image](https://github.com/FunkyFr3sh/Warcraft-II-Powershell-Patches/assets/8355237/d5c58a4c-b2f0-4915-8459-5da5fd0a099f)
 
+Patch #2: Fix stuck on downloading software update / failed to connect to battle.net issue
+-----------------
+ - Download [fix-gateway.bat](https://downgit.github.io/#/home?url=https://github.com/FunkyFr3sh/Warcraft-II-Powershell-Patches/blob/main/fix-gateway.bat)
+ - Extract `fix-gateway.zip`
+ - Run `fix-gateway.bat`
+
 
