@@ -3,6 +3,7 @@ $bytes = [System.IO.File]::ReadAllBytes("battle.snp");
 # Make sure the "join" button will NOT be disabled when the port test fails (Port doesn't need to be forwarded for joining, only for hosting games)
 # Replaces the call to "EnableWindow" with NOP's (no operation)
 
+# battle.snp + 0x00007210
 $bytes[0x00007210] = 0x90;
 $bytes[0x00007211] = 0x90;
 $bytes[0x00007212] = 0x90;
