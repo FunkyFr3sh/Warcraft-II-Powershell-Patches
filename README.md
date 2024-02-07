@@ -43,6 +43,7 @@ This patch is for both, Warcraft II and Diablo
 
 - Download [cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw/releases/tag/battle.net) and extract it into your game folder 
 
+.
 
 Failed to connect / Wrong Password / Muted (void channel) / CD-Key issues
 -----------------
