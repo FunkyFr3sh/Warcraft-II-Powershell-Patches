@@ -33,7 +33,7 @@ This patch is for Warcraft II.
 
 The patch shouldn't be applied by the user because the game executable is signed, Blizzard/GOG should fix it.
 
-See uninitialized-variable-crash-fix.ps1 and uninitialized-variable-crash-fix.ERR for more details
+See `uninitialized-variable-crash-fix.ps1` and `uninitialized-variable-crash-fix.ERR` for more details
 
 .
 
