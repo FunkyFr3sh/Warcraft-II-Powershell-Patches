@@ -29,7 +29,8 @@ Before / After
 
 Patch #3: Game fails to start (uninitialized variable crash)
 -----------------
-This patch is for Warcraft II. The patch should not be applied by the user because the game executable is signed, Blizzard/GOG will have to fix it.
+This patch is for Warcraft II. 
+The patch shouldn't be applied by the user because the game executable is signed, Blizzard/GOG should fix it.
 
 See uninitialized-variable-crash-fix.ps1 and uninitialized-variable-crash-fix.ERR for more details
 
@@ -37,5 +38,7 @@ See uninitialized-variable-crash-fix.ps1 and uninitialized-variable-crash-fix.ER
 
 Patch #4: Fix broken battle.net UI / Improve compatibility with modern windows versions
 -----------------
+This patch is for both, Warcraft II and Diablo
+
 - Download [cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw/releases/tag/battle.net) and extract it into your game folder 
 
