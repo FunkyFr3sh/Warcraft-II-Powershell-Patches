@@ -49,7 +49,7 @@ This patch is for both, Warcraft II and Diablo
 
 Failed to connect / Wrong Password / Muted (void channel) / CD-Key issues
 -----------------
-All users that bought the game on battle.net ended up with the same CD-Key set in the registry. Not sure if this is a bug or intentional. Apparently the server was patched to allow multiple users to connect with the same key at the same time, so I'm assuming this is not a bug. The patch that was applied to the server seems to be incomplete, it's causing users to end up being muted or fail to connect (Wrong password) occasionally (Tested and confirmed by changing the CD-Key to a different one).
+All users that bought the Warcraft II on battle.net ended up with the same CD-Key set in the registry. Not sure if this is a bug or intentional. Apparently the server was patched to allow multiple users to connect with the same key at the same time, so I'm assuming this is not a bug. The patch that was applied to the server seems to be incomplete, it's causing users to end up being muted or fail to connect (Wrong password) occasionally (Tested and confirmed by changing the CD-Key to a different one).
 
 Blizzard needs to fix this issue, nothing we (the players) can do about it.
 
