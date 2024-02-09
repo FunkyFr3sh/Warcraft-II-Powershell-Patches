@@ -5,7 +5,7 @@ Patch #1: Fix stuck on downloading software update / failed to connect to battle
 -----------------
 This patch is for both, Warcraft II and Diablo
 
- - Download [fix-gateway.bat](https://downgit.github.io/#/home?url=https://github.com/FunkyFr3sh/Warcraft-II-Powershell-Patches/blob/main/fix-gateway.bat)
+ - Download [fix-gateway.zip](https://downgit.github.io/#/home?url=https://github.com/FunkyFr3sh/Warcraft-II-Powershell-Patches/blob/main/fix-gateway.bat)
  - Extract `fix-gateway.zip`
  - Run `fix-gateway.bat`
 
