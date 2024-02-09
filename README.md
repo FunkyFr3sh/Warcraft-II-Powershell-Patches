@@ -20,6 +20,8 @@ This patch is for both, Warcraft II and Diablo
  - Extract `bnet-join-game-fix.zip` into your Warcraft II / Diablo folder
  - Right click `bnet-join-game-fix.ps1` and select `Run with PowerShell`
 
+Note: You'll need admin rights if your game is installed inside of the "Program Files" folder. Workaround: Copy `battle.snp` and `bnet-join-game-fix.ps1` to your desktop and run it from there, afterwards just copy `battle.snp` back into your game folder.
+
 
 Before / After
 
@@ -43,7 +45,6 @@ This patch is for both, Warcraft II and Diablo
 
 - Download [cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw/releases/tag/battle.net) and extract it into your game folder 
 
-.
 .
 
 Failed to connect / Wrong Password / Muted (void channel) / CD-Key issues
